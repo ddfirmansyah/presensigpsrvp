@@ -62,11 +62,11 @@
                 </td>
                 <td>
                     <span id="title">
-                        REKAP PRESENSI KARYAWAN<br>
+                        LAPORAN PRESENSI KARYAWAN<br>
                         PERIODE {{ strtoupper($namabulan[$bulan]) }} {{ $tahun }}<br>
-                        PT. ADAM ADIFA<br>
+                        RUMAH VAKSINASI PUSAT<br>
                     </span>
-                    <span><i>Jln. H. Dahlan No. 75, Kecamatan Sindangrasa, Kabupaten Ciamis</i></span>
+                    <span><i>Jl. Raya Inpres No.81 Kramat Jati Jakarta Timur</i></span>
                 </td>
             </tr>
         </table>
@@ -250,11 +250,11 @@
             </tr>
             <tr>
                 <td style="text-align: center; vertical-align:bottom" height="100px">
-                    <u>Qiana Aqila</u><br>
+                    <u>_____________________</u><br>
                     <i><b>HRD Manager</b></i>
                 </td>
                 <td style="text-align: center; vertical-align:bottom">
-                    <u>Daffa</u><br>
+                    <u>_____________________</u><br>
                     <i><b>Direktur</b></i>
                 </td>
             </tr>
